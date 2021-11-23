@@ -4,6 +4,6 @@ public class Rouler implements Déplacement {
 
     @Override
     public void deplacer() {
-
+        System.out.println("Rouler");
     }
 }
